@@ -1,4 +1,4 @@
-from db_wrapper.database_query import *
+from database_query import *
 
 # definition for PalicoWeapon class
 # child of WeaponDB
